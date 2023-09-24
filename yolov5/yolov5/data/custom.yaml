@@ -1,9 +1,9 @@
 # train and val data as directory: path/labels/
-train: ../image_data/images/train/ 
-val: ../image_data/images/val/  
-
+ 
+train: ../datasets/images/train2017
+val: ../datasets/images/train2017
 # number of classes
 nc: 3
 
 # class names
-names: ['air conditioner', 'dog', 'fence']
+names: ['pet', 'cat', 'dog']
