@@ -1,0 +1,8 @@
+checkpoint: snapshots/exp/csv_darknet53s_pan_3_01.h5 # trained model
+
+input_h: 512
+input_w: 512
+max_objects: 100
+score_thres: 0.6
+iou_thres: 0.5
+e2e_coco: True

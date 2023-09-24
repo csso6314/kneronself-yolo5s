@@ -1,0 +1,81 @@
+10777 instances of class person with average precision: 0.6355
+314 instances of class bicycle with average precision: 0.2301
+1918 instances of class car with average precision: 0.3815
+367 instances of class motorcycle with average precision: 0.4206
+143 instances of class airplane with average precision: 0.5486
+283 instances of class bus with average precision: 0.5072
+190 instances of class train with average precision: 0.5009
+414 instances of class truck with average precision: 0.0675
+424 instances of class boat with average precision: 0.2501
+634 instances of class traffic light with average precision: 0.1943
+101 instances of class fire hydrant with average precision: 0.4795
+75 instances of class stop sign with average precision: 0.5193
+60 instances of class parking meter with average precision: 0.2223
+411 instances of class bench with average precision: 0.0956
+427 instances of class bird with average precision: 0.1824
+202 instances of class cat with average precision: 0.4248
+218 instances of class dog with average precision: 0.1564
+272 instances of class horse with average precision: 0.3673
+354 instances of class sheep with average precision: 0.3821
+372 instances of class cow with average precision: 0.2068
+252 instances of class elephant with average precision: 0.3402
+71 instances of class bear with average precision: 0.2606
+266 instances of class zebra with average precision: 0.7660
+232 instances of class giraffe with average precision: 0.7215
+371 instances of class backpack with average precision: 0.0519
+407 instances of class umbrella with average precision: 0.3528
+540 instances of class handbag with average precision: 0.0375
+252 instances of class tie with average precision: 0.2052
+299 instances of class suitcase with average precision: 0.1069
+115 instances of class frisbee with average precision: 0.4015
+240 instances of class skis with average precision: 0.2418
+69 instances of class snowboard with average precision: 0.1030
+260 instances of class sports ball with average precision: 0.1973
+327 instances of class kite with average precision: 0.2938
+145 instances of class baseball bat with average precision: 0.1595
+148 instances of class baseball glove with average precision: 0.2426
+179 instances of class skateboard with average precision: 0.2859
+267 instances of class surfboard with average precision: 0.2204
+225 instances of class tennis racket with average precision: 0.3875
+1013 instances of class bottle with average precision: 0.1894
+341 instances of class wine glass with average precision: 0.1690
+895 instances of class cup with average precision: 0.2233
+215 instances of class fork with average precision: 0.0367
+325 instances of class knife with average precision: 0.0379
+253 instances of class spoon with average precision: 0.0223
+623 instances of class bowl with average precision: 0.2280
+370 instances of class banana with average precision: 0.1070
+236 instances of class apple with average precision: 0.0449
+177 instances of class sandwich with average precision: 0.1200
+285 instances of class orange with average precision: 0.1566
+312 instances of class broccoli with average precision: 0.3041
+365 instances of class carrot with average precision: 0.1347
+125 instances of class hot dog with average precision: 0.0690
+284 instances of class pizza with average precision: 0.4222
+328 instances of class donut with average precision: 0.1560
+310 instances of class cake with average precision: 0.1272
+1771 instances of class chair with average precision: 0.2012
+261 instances of class couch with average precision: 0.1513
+342 instances of class potted plant with average precision: 0.1957
+163 instances of class bed with average precision: 0.2196
+695 instances of class dining table with average precision: 0.2797
+179 instances of class toilet with average precision: 0.4723
+288 instances of class tv with average precision: 0.4019
+231 instances of class laptop with average precision: 0.3671
+106 instances of class mouse with average precision: 0.3462
+283 instances of class remote with average precision: 0.0439
+153 instances of class keyboard with average precision: 0.3604
+262 instances of class cell phone with average precision: 0.1996
+55 instances of class microwave with average precision: 0.3818
+143 instances of class oven with average precision: 0.2243
+9 instances of class toaster with average precision: 0.0000
+225 instances of class sink with average precision: 0.2955
+126 instances of class refrigerator with average precision: 0.3251
+1129 instances of class book with average precision: 0.0647
+267 instances of class clock with average precision: 0.4592
+274 instances of class vase with average precision: 0.1582
+36 instances of class scissors with average precision: 0.0278
+190 instances of class teddy bear with average precision: 0.2709
+11 instances of class hair drier with average precision: 0.0000
+57 instances of class toothbrush with average precision: 0.0000
+mAP : 0.2518

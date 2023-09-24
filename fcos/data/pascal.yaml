@@ -1,0 +1,7 @@
+data_root: path_to_voc_dataset/VOCdevkit/VOC2012
+train: 'trainval'
+val: 'val'
+
+# type of dataset
+dataset_type: pascal
+

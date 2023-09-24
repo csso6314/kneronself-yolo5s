@@ -1,0 +1,6 @@
+train: ../yolov5/image_data/images/train
+val: ../yolov5/image_data/images/val
+
+
+# class names
+names: ['air conditioner', 'dog', 'fence']

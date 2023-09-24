@@ -1,0 +1,10 @@
+#data_root: path_to_coco_dataset/  
+data_root: /home/ziyan/Dataset/COCO/
+
+# type of dataset
+dataset_type: coco
+
+val_set_name: val2017
+train_set_name: train2017
+train_annotations_path: /home/ziyan/Dataset/COCO/annotations/instances_train2017.json
+val_annotations_path: /home/ziyan/Dataset/COCO/annotations/instances_val2017.json
