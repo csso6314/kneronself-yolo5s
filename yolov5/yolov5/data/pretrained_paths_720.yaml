@@ -6,7 +6,7 @@ grid80_path: ../generate_npy/80_640x640.npy
 yolov5_dir: ./
 path: runs/train/exp/weights/best.pt
 yaml_path: ./models/yolov5s.yaml
-pt_path: best.pt   # pytorch 1.4
+pt_path: best.pt   # kneron's pt file
 onnx_export_file: ./yolov5s.onnx
 
 input_w: 640
